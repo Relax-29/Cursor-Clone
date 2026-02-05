@@ -34,6 +34,8 @@ a:hover {
     color: var(--a-hover-color);
 }
 
+/* ======== Navigation ========== */
+
 nav {
     
     position: fixed;
@@ -107,6 +109,8 @@ nav button:hover{
     background-color: #dddada;
 }
 
+/* ======== Hero-Section ========== */
+
 .hero-section {
     width: 80%;
     margin: 20px auto;
@@ -145,6 +149,7 @@ nav button:hover{
     width: 100%;
 }
 
+/* ======== Company Section ========== */
 .company {
     width: 80%;
     margin: 50px auto;
@@ -178,6 +183,7 @@ nav button:hover{
     width: 70%;
 }
 
+/* ======== Agent-Section ========== */
 .agent {
     width: 80%;
     display: flex;
@@ -239,6 +245,7 @@ nav button:hover{
     -o-border-radius: 10px;
 }
 
+/* ======== Feedbacks-Section ========== */
 .feedbacks {
     width: 80%;
     height: 80vh;
@@ -302,6 +309,7 @@ nav button:hover{
     gap: 10px;
 }
 
+/* ======== Staying-on-frontier Section ========== */
 .staying-on-frontier {
     width: 80%;
     margin: 100px auto;
@@ -355,6 +363,7 @@ nav button:hover{
     font-size: 16px;
 }
 
+/* ======== Changelog - Section========== */
 .changelog {
     width: 80%;
     margin: 100px auto;
@@ -413,6 +422,7 @@ nav button:hover{
     color: rgb(255, 252, 252);
 }
 
+/* ======== Team-Section ========== */
 .team {
     width: 80%;
     margin: 100px auto;
@@ -436,6 +446,7 @@ nav button:hover{
     width: 65%;
 }
 
+/* ======== Highlight-Section ========== */
 .highlight {
     width: 100%;
     margin: 100px auto;
@@ -487,6 +498,7 @@ nav button:hover{
     -o-border-radius: 10px;
 }
 
+/* ======== Last-Section ========== */
 .last-section {
     width: 80%;
     margin: 100px auto;
@@ -502,6 +514,7 @@ nav button:hover{
     letter-spacing: 0.5;
 }
 
+/* ======== Footer ========== */
 footer {
     width: 100%;
     display: flex;
