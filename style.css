@@ -1,29 +1,29 @@
-:root{
+:root {
     --border-color: #ffffff47;
-    --primary-bg-color: #1B1913;
+    --primary-bg-color: #1b1913;
     --a-color: #f54e00;
     --a-hover-color: oklab(0.652196 0.168318 0.131453 / 0.75);
 }
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Carrois Gothic", sans-serif;
-  font-weight: 500;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Carrois Gothic", sans-serif;
+    font-weight: 500;
 }
 
 body,
 html {
-  width: 100vw;
-  height: 100vh;
+    width: 100vw;
+    height: 100vh;
 }
 
 body {
-  background-color: #111;
-  color: #ffff;
-  overflow-x: hidden;
-  position: relative;
+    background-color: #111;
+    color: #ffff;
+    overflow-x: hidden;
+    position: relative;
 }
 
 a {
@@ -37,13 +37,12 @@ a:hover {
 /* ======== Navigation ========== */
 
 nav {
-    
     position: fixed;
     top: 0;
     background-color: #111;
-  width: 100%; 
-  margin: auto;
-  padding: 5px;
+    width: 100%;
+    margin: auto;
+    padding: 5px;
 }
 
 .navbar {
@@ -56,8 +55,8 @@ nav {
 }
 
 nav .nav-mid {
-  display: flex;
-  gap: 40px;
+    display: flex;
+    gap: 40px;
 }
 
 nav .nav-mid a {
@@ -71,7 +70,7 @@ nav .nav-mid a {
     font-weight: 500;
 }
 
-nav .nav-mid a:hover{
+nav .nav-mid a:hover {
     color: #aca2a2;
 }
 
@@ -80,7 +79,8 @@ nav .nav-right {
     gap: 10px;
 }
 
-nav button, .download {
+nav button,
+.download {
     border: 1px solid var(--border-color);
     border-radius: 30px;
     -webkit-border-radius: 30px;
@@ -96,16 +96,18 @@ nav button, .download {
     -o-transition: all 0.2s ease-in;
 }
 
-nav button:hover{
+nav button:hover {
     background-color: #81808027;
 }
 
-.download, .nav-download {
-    background-color: #fff; 
+.download,
+.nav-download {
+    background-color: #fff;
     color: rgb(20, 18, 11);
 }
 
-.download:hover, .nav-download:hover{
+.download:hover,
+.nav-download:hover {
     background-color: #dddada;
 }
 
@@ -190,7 +192,7 @@ nav button:hover{
     justify-content: space-between;
     align-items: center;
     margin: 100px auto;
-    background-color: #1D1B15;
+    background-color: #1d1b15;
     padding: 20px 0 20px 20px;
     gap: 30px;
 }
@@ -215,7 +217,7 @@ nav button:hover{
 
 .agent .right {
     width: 60%;
-    background-color: var(--primary-bg-color);
+    background-color: #49433a;
     padding: 30px 0 30px 25px;
     border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -557,7 +559,8 @@ footer {
     align-items: center;
 }
 
-.footer-bottom a, small {
+.footer-bottom a,
+small {
     color: rgba(255, 252, 252, 0.47);
     font-size: 16px;
     margin-right: 10px;
