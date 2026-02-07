@@ -42,17 +42,17 @@
 Tell me which you prefer and I'll proceed.
 
 ## Deployed link
-- Live site: https://relax-29.github.io/Cursor-Clone/
+- Live site: https://cursor-clone-nu.vercel.app
 
 ## Screenshots
 All screenshots from the `images/` folder are linked to the deployed site below. Click any image to open it on the live deployment.
 
 <!-- Images gallery -->
 
-[![Screenshot 1.png](images/Screenshot%201.png)](https://relax-29.github.io/Cursor-Clone)
-[![Screenshot 2.png](images/Screenshot%202.png)](https://relax-29.github.io/Cursor-Clone)
-[![Screenshot 3.png](images/Screenshot%203.png)](https://relax-29.github.io/Cursor-Clone)
-[![Screenshot 4.png](images/Screenshot%204.png)](https://relax-29.github.io/Cursor-Clone)
+[![Screenshot 1.png](images/Screenshot%201.png)](https://cursor-clone-nu.vercel.app)
+[![Screenshot 2.png](images/Screenshot%202.png)](https://cursor-clone-nu.vercel.app)
+[![Screenshot 3.png](images/Screenshot%203.png)](https://cursor-clone-nu.vercel.app)
+[![Screenshot 4.png](images/Screenshot%204.png)](https://cursor-clone-nu.vercel.app)
 
 ---
 Made by the repo maintainer automation to document CSS sectioning and palette.
